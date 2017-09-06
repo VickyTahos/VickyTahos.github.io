@@ -10,4 +10,5 @@ Where do the majority of students live on campus? Is it really the cool thing to
 
 ![Lehigh Undergraduate Residence 2016](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/Lehigh%20Undergrad%20Residence.png?raw=true)
 
-https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1h-sKfk95b8O7vuPJ-ypsRuilfL6ITNX-MwcUW_dBENs&font=Default&lang=en&initial_zoom=2&height=650
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1h-sKfk95b8O7vuPJ-ypsRuilfL6ITNX-MwcUW_dBENs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
