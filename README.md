@@ -19,3 +19,6 @@ Where do the majority of students live on campus? Is it really the cool thing to
 Social media continues to grow as new platforms come into play day by day. However, many keep their strong presence, making them more popular than ever. Take a look below at the percentage of adults who use what social media platforms.
 
 ![Social Media Among Adults](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/Popular%20Social%20Media%20Platform.png?raw=true)
+
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1QKIMNjojfy2aBt8nVYx8NEillxwi4QY127DxLa_w2KE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
