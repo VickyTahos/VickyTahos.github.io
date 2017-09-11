@@ -23,3 +23,7 @@ Social media continues to grow as new platforms come into play day by day. Howev
 
 ## Social Media Creation Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1QKIMNjojfy2aBt8nVYx8NEillxwi4QY127DxLa_w2KE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+
+## 2016 Percentage of Undergraduate Enrollment Lehigh University
+![2016 Percentage of undergraduate Enrollment](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/2016PercentofUndergraduateEnrollment.png?raw=true)
