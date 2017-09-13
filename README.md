@@ -27,3 +27,9 @@ As new social media platforms are introduced to the public, we tend to forget ab
 
 ## 2016 Percentage of Undergraduate Enrollment at Lehigh University
 ![2016 Percentage of undergraduate Enrollment](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/2016PercentofUndergraduateEnrollment.png?raw=true)
+
+
+## Percentages of Undergraduate Enrollment Within the Colleges at Lehigh University 
+Over the last ten years, there have been slight changes of population within each college within Lehigh University. Below is a line chart showing the change in percentage over the last ten years of each school at Lehigh.
+
+![Percentages of Undergraduate College Enrollment](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/PercentagesofUndergraduateEnrollmentinEachCollege.png?raw=true)
