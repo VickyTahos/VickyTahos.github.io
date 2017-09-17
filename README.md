@@ -36,6 +36,6 @@ Over the last ten years, there have been slight changes of population within eac
 
 
 ## Number of Facebook and Twitter Users In Millions
-Since the start of social media, it is safe to say that each social media platform has seen a significant rise in their total number of users as each year goes by. Look at the increase of users on Twitter vs. Facebook below. *Note: Facebook was created in 2004 and Twitter was created in 2006
+Since the start of social media, it is safe to say that each social media platform has seen a significant rise in their total number of users as each year goes by. Look at the increase of users on Twitter vs. Facebook below. Data was found on Statista.com *Note: Facebook was created in 2004 and Twitter was created in 2006. 
 
 ![Number of Facebook and Twitter Users Since 2004](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/NumberofUsersforFacebookandTwitterInMillions.png?raw=true)
