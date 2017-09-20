@@ -41,3 +41,9 @@ Since the start of social media, it is safe to say that each social media platfo
 *Note: Facebook was created in 2004 and Twitter was created in 2006. 
 
 ![Number of Facebook and Twitter Users Since 2004](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/NumberofUsersforFacebookandTwitterInMillions.png?raw=true)
+
+
+## Map of Art Centers in Bethlehem, PA
+Below is a map of art centers located in the city of Bethlehem. Click around the map, find the red dots and pick an art center for your next visit in the city!
+
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+19huZNqmG6lRfCuqpbIdIiNjb0OyZysBvtayLllpj&amp;viz=MAP&amp;h=false&amp;lat=40.60602976206092&amp;lng=-75.36705671767578&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
