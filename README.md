@@ -47,3 +47,9 @@ Since the start of social media, it is safe to say that each social media platfo
 Below is a map of art centers located in the city of Bethlehem. Click around the map, find the red dots and pick an art center for your next visit in the city!
 
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+19huZNqmG6lRfCuqpbIdIiNjb0OyZysBvtayLllpj&amp;viz=MAP&amp;h=false&amp;lat=40.60602976206092&amp;lng=-75.36705671767578&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+
+
+## Map of Top Five Most Instagrammed Places in Europe
+Ever wanted to plan your vacation but didn't know where to go for the perfect instagram? Check out the locations below for your perfect tourist trip to Europe and see what the five of the most Instagrammed places in Europe really are.
+
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+161gsu8I-PkZuL3Hj3uQJ4TrWuKRw8Ww9_Z94aHol&amp;viz=MAP&amp;h=false&amp;lat=43.37304750921964&amp;lng=19.622827524999934&amp;t=1&amp;z=4&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
