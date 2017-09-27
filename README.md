@@ -24,7 +24,7 @@ Social media continues to grow as new platforms come into play day by day. Howev
 ## Social Media Creation Timeline
 As new social media platforms are introduced to the public, we tend to forget about the ones that were previously created. Take a walk down memory lane and remind yourself of all the past accounts you've ever made on all of these social media sites.
 
-<iframe src='https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Bevan-PotanoSans&maptype=toner&width=600&height=600' width='600' height='600' frameborder='0'></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT91_G-oqN6hDpmtSxgQc_yT1bldtFMxJlZJMPM6O2ZqQDb-Ov0KbFMsJwLIBc6rOw13ggvqZeBBaGZ/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
 
