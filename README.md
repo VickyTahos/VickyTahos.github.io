@@ -4,6 +4,8 @@ My name is Vicky Tahos. I am a junior at Lehigh University in Bethlehem, PA. My 
 
 ![](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/DSC_0352.jpg?raw=true)
 
+![](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/Screen%20Shot%202017-10-09%20at%2011.25.26%20AM.png?raw=true)
+
 
 
 ## Lehigh Undergraduate Residence 2016 Infographic 
