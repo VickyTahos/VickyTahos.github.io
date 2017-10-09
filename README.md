@@ -1,6 +1,6 @@
 # Welcome!
 
-My name is Vicky Tahos. I am a junior at Lehigh University in Bethlehem, PA. My major is Journalism and Communications and my minors are Marketing and Sociology. I am interested in using my journalism and communication skills in combination with my sociology background to use that in the marketing field. 
+My name is Vicky Tahos. I am a junior at Lehigh University in Bethlehem, PA. My major is Journalism and Communications and my minors are Marketing and Sociology. I am interested in using my journalism and communication skills in combination with my sociology background to use that in the marketing field. I love to take pictures, especially for my own Instagram, playing and watching different sports, drinking coffee and playing with my dog.
 
 ![](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/DSC_0352.jpg?raw=true)
 
