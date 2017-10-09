@@ -6,7 +6,7 @@ My name is Vicky Tahos. I am a junior at Lehigh University in Bethlehem, PA. My 
 
 ## Comic About Me!
 
-Take a look into my life through this comic and my dreams for after college!
+Take a look into my life and my dreams after college through this comic!
 
 ![](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/Screen%20Shot%202017-10-09%20at%2011.25.26%20AM.png?raw=true)
 
