@@ -4,16 +4,11 @@ My name is Vicky Tahos. I am a junior at Lehigh University in Bethlehem, PA. My 
 
 ![](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/DSC_0352.jpg?raw=true)
 
+## Comic About Me!
+
+Take a look into my life through this comic and my dreams for after college!
+
 ![](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/Screen%20Shot%202017-10-09%20at%2011.25.26%20AM.png?raw=true)
-
-
-
-
-## Lehigh Undergraduate Residence 2016 Infographic 
-
-Where do the majority of students live on campus? Is it really the cool thing to do to live off campus? How many student live in the fraternity and sorority houses? Take a look at the infographic below to see where Lehigh University students lived in 2016. Data from the Office of Institutional Research.
-
-![Lehigh Undergraduate Residence 2016](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/Lehigh%20Undergrad%20Residence.png?raw=true)
 
 
 
@@ -35,20 +30,6 @@ As new social media platforms are introduced to the public, we tend to forget ab
 
 
 
-## 2016 Percentage of Undergraduate Enrollment at Lehigh University
-![2016 Percentage of undergraduate Enrollment](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/2016PercentofUndergraduateEnrollment.png?raw=true)
-
-
-
-
-## Percentages of Undergraduate Enrollment Within the Colleges at Lehigh University 
-Over the last ten years, there have been slight changes of population within each college within Lehigh University. Below is a line chart showing the change in percentage over the last ten years of each school at Lehigh.
-
-![Percentages of Undergraduate College Enrollment](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/PercentagesofUndergraduateEnrollmentinEachCollege.png?raw=true)
-
-
-
-
 ## Number of Facebook and Twitter Users In Millions
 Since the start of social media, it is safe to say that each social media platform has seen a significant rise in their total number of users as each year goes by. Look at the increase of users on Twitter vs. Facebook below. Data was found on Statista.com.
 
@@ -64,9 +45,32 @@ Ever wanted to plan your vacation but didn't know where to go for the perfect In
 
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col1+from+1u379AGOMbj6feSxS7F8NJASHfAlIi9gT3bH3qKVT&amp;viz=MAP&amp;h=false&amp;lat=45.135135498326555&amp;lng=11.802906200000052&amp;t=1&amp;z=4&amp;l=col1&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
+
+
+
+## Lehigh Undergraduate Residence 2016 Infographic 
+
+Where do the majority of students live on campus? Is it really the cool thing to do to live off campus? How many student live in the fraternity and sorority houses? Take a look at the infographic below to see where Lehigh University students lived in 2016. Data from the Office of Institutional Research.
+
+![Lehigh Undergraduate Residence 2016](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/Lehigh%20Undergrad%20Residence.png?raw=true)
+
+
+
+
+## 2016 Percentage of Undergraduate Enrollment at Lehigh University
+![2016 Percentage of undergraduate Enrollment](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/2016PercentofUndergraduateEnrollment.png?raw=true)
     
   
   
+  
+## Percentages of Undergraduate Enrollment Within the Colleges at Lehigh University 
+Over the last ten years, there have been slight changes of population within each college within Lehigh University. Below is a line chart showing the change in percentage over the last ten years of each school at Lehigh.
+
+![Percentages of Undergraduate College Enrollment](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/PercentagesofUndergraduateEnrollmentinEachCollege.png?raw=true)
+
+
+
+
 ## Average Tuition for In-State Students for 4-Year Colleges
 It is no surprise to people that college tuition has been on a steady increase. Below, take a look at the dollar changes and percent changes of in-state tuition for 4-year colleges between 2006-07 and 2016-17.
 
