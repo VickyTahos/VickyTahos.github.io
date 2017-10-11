@@ -13,7 +13,8 @@ Take a look into my life and my dreams after college through this comic!
 
 
 
-### Within the last ten years or so, social media has become a large part of our everyday lives. From having accounts for personal use, to businesses using social media to promote their services or products, it's almost impossible to completely avoid it. Below, you will find statistics on social media users, a timeline of when it all came into play, as well as a map to see the most Instagrammed places in Europe.
+## Social Media
+Within the last ten years or so, social media has become a large part of our everyday lives. From having accounts for personal use, to businesses using social media to promote their services or products, it's almost impossible to completely avoid it. Below, you will find statistics on social media users, a timeline of when it all came into play, as well as a map to see the most Instagrammed places in Europe.
 
 
 
@@ -56,7 +57,8 @@ Ever wanted to plan your vacation but didn't know where to go for the perfect In
 
 
 
-### Being a college student, data on universities and different trends about tuition and enrollment has been an interesting topic to me. By having Lehigh's data available, below you will see an infographic and chart looking at the popularity in resident halls and popularity in colleges within the university. Also, to broaden our views as we live in the "Lehigh bubble", take a look at the map below to see the percent increase of tuition among 4-year colleges and universities within each state.
+## College Life
+Being a college student, data on universities and different trends about tuition and enrollment has been an interesting topic to me. By having Lehigh's data available, below you will see an infographic and chart looking at the popularity in resident halls and popularity in colleges within the university. Also, to broaden our views as we live in the "Lehigh bubble", take a look at the map below to see the percent increase of tuition among 4-year colleges and universities within each state.
 
 
 
