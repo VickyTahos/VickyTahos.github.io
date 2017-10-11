@@ -1,6 +1,6 @@
 # Welcome!
 
-My name is Vicky Tahos. I am a junior at Lehigh University in Bethlehem, PA. My major is Journalism and Communications and my minors are Marketing and Sociology. I am interested in using my journalism and communication skills in combination with my sociology background to use that in the marketing field. I love to take pictures, especially for my own Instagram, playing and watching different sports, drinking coffee and playing with my dog.
+My name is Vicky Tahos. I am a junior at Lehigh University in Bethlehem, PA. My major is Journalism and Communications and I am a double minor in Marketing and Sociology. I am interested in using my journalism and communication skills in combination with my sociology background to use that in the marketing field. I love to take pictures, especially for my own Instagram, playing and watching different sports, drinking coffee and playing with my dog.
 
 ![](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/DSC_0352.jpg?raw=true)
 
@@ -23,6 +23,7 @@ Social media continues to grow as new platforms come into play day by day. Howev
 
 
 ## Social Media Creation Timeline
+
 As new social media platforms are introduced to the public, we tend to forget about the ones that were previously created. Take a walk down memory lane and remind yourself of all the past accounts you've ever made on all of these social media sites.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1QKIMNjojfy2aBt8nVYx8NEillxwi4QY127DxLa_w2KE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
@@ -31,6 +32,7 @@ As new social media platforms are introduced to the public, we tend to forget ab
 
 
 ## Number of Facebook and Twitter Users In Millions
+
 Since the start of social media, it is safe to say that each social media platform has seen a significant rise in their total number of users as each year goes by. Look at the increase of users on Twitter vs. Facebook below. Data was found on Statista.com.
 
 *Note: Facebook was created in 2004 and Twitter was created in 2006. The figures are worldwide numbers. Data was collected from Statista.com
@@ -41,6 +43,7 @@ Since the start of social media, it is safe to say that each social media platfo
 
 
 ## Map of Top Five Most Instagrammed Places in Europe
+
 Ever wanted to plan your vacation but didn't know where to go for the perfect Instagram? Check out the locations below for your perfect tourist trip to Europe and see what the five of the most Instagrammed places in Europe really are.
 
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col1+from+1u379AGOMbj6feSxS7F8NJASHfAlIi9gT3bH3qKVT&amp;viz=MAP&amp;h=false&amp;lat=45.135135498326555&amp;lng=11.802906200000052&amp;t=1&amp;z=4&amp;l=col1&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
@@ -58,12 +61,16 @@ Where do the majority of students live on campus? Is it really the cool thing to
 
 
 ## 2016 Percentage of Undergraduate Enrollment at Lehigh University
+
+Below is a graph showing the percentage of undergraduate enrollement at Lehigh split up between the different colleges on campus. 
+
 ![2016 Percentage of undergraduate Enrollment](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/2016PercentofUndergraduateEnrollment.png?raw=true)
     
   
   
   
 ## Percentages of Undergraduate Enrollment Within the Colleges at Lehigh University 
+
 Over the last ten years, there have been slight changes of population within each college within Lehigh University. Below is a line chart showing the change in percentage over the last ten years of each school at Lehigh.
 
 ![Percentages of Undergraduate College Enrollment](https://github.com/VickyTahos/VickyTahos.github.io/blob/master/PercentagesofUndergraduateEnrollmentinEachCollege.png?raw=true)
@@ -72,6 +79,7 @@ Over the last ten years, there have been slight changes of population within eac
 
 
 ## Average Tuition for In-State Students for 4-Year Colleges
+
 It is no surprise to people that college tuition has been on a steady increase. Below, take a look at the dollar changes and percent changes of in-state tuition for 4-year colleges between 2006-07 and 2016-17.
 
 
