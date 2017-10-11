@@ -13,6 +13,11 @@ Take a look into my life and my dreams after college through this comic!
 
 
 
+## Within the last ten years or so, social media has become a large part of our everyday lives. From having accounts for personal use, to businesses using social media to promote their services or products, it's almost impossible to completely avoid it. Below, you will find statistics on social media users, a timeline of when it all came into play, as well as a map to see the most Instagrammed places in Europe.
+
+
+
+
 ## Social Media Among Adults
 
 Social media continues to grow as new platforms come into play day by day. However, many keep their strong presence, making them more popular than ever. Take a look below at the percentage of adults who use what social media platforms.
@@ -47,6 +52,11 @@ Since the start of social media, it is safe to say that each social media platfo
 Ever wanted to plan your vacation but didn't know where to go for the perfect Instagram? Check out the locations below for your perfect tourist trip to Europe and see what the five of the most Instagrammed places in Europe really are.
 
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col1+from+1u379AGOMbj6feSxS7F8NJASHfAlIi9gT3bH3qKVT&amp;viz=MAP&amp;h=false&amp;lat=45.135135498326555&amp;lng=11.802906200000052&amp;t=1&amp;z=4&amp;l=col1&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+
+
+
+
+## Being a college student, data on universities and different trends about tuition and enrollment has been an interesting topic to me. By having Lehigh's data available, below you will see an infographic and chart looking at the popularity in resident halls and popularity in colleges within the university. Also, to broaden our views as we live in the "Lehigh bubble", take a look at the map below to see the percent increase of tuition among 4-year colleges and universities within each state.
 
 
 
